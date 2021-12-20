@@ -1,4 +1,6 @@
 *.txt
 *.json
 *.root
+.ipynb_checkpoints/*
+*.swp
 
