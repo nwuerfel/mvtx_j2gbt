@@ -3,4 +3,4 @@
 *.root
 .ipynb_checkpoints/*
 *.swp
-
+img/*
